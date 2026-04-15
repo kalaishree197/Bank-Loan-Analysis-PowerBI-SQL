@@ -28,7 +28,6 @@ The dashboard was built by following a structured YouTube tutorial, with custom 
 
 - [📊 Power BI Dashboard](Bank%20Loan%20Report%20Power%20Bl.pbix)
 - [📄 SQL Queries](BANK%20LOAN%20SQL%20QUERY%20REPORT.docx)
-
 ---
 
 ## 📸 Dashboard Screenshots
